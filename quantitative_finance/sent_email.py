@@ -13,9 +13,9 @@ from email.utils     import parseaddr, formataddr
 
 def sent_email(s):
     #email setting ----------------------------
-    my_sender = 'xudingflame@163.com'
-    my_pass   = '13308011530XD'
-    receiver  = ['315280790@qq.com']
+    my_sender = '*****'                  # 发送邮件的邮箱
+    my_pass   = '*****'                  # 发件邮箱的smtp密码
+    receiver  = ['****']                 # 接收信息的邮件  可以是多个接受者
     #email setting ----------------------------
     
     #email content ----------------------------
