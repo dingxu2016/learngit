@@ -7,11 +7,7 @@ Created on Sun May 14 11:04:35 2017
 import get_info as a
 import sent_email as b
 
-def monitor_price(number_list):
-    flag = []
-    for i in range(len(number_list)):
-        flag[i] = False
-        
+def monitor_price(number_list, flag):        
     for i in range(len(number_list)):
         number       = number_list[i][0]
         remind_price = number_list[i][1]
