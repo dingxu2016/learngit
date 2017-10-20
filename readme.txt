@@ -1,3 +1,5 @@
+0. My name is xieding
+
 1. I am a PhD candidate who major in computational soft condensed matter at USTC. And i'm also interested in many other field, such as deep learning , quantitative finance and numerical computation etc.
 
 2. In general, i would like to use Fortran and C to complete the computational part and process data with Matlab or Python.
